@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=fff"/>
 </p>
